@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/Application/">
+    <Project Path="src/Trade.application.interface/Trade.application.interface.csproj" Id="3943e5c4-bc9d-4237-90bb-e4f729827bcc" />
+    <Project Path="src/Trade.application.usecase/Trade.application.usecase.csproj" Id="6de6e683-eb4a-40b8-a9cb-f5b466bbd79d" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="src/Trade.Domain/Trade.Domain.csproj" Id="175f0f7d-58c2-4e3d-aad5-fc4ec3c66820" />
+  </Folder>
+  <Folder Name="/infrastructure/">
+    <Project Path="src/Trade.infrastructure/Trade.infrastructure.csproj" Id="d5c06e9f-6410-42de-89e7-2d3b432bb89f" />
+    <Project Path="src/Trade.persistence/Trade.persistence.csproj" Id="77af9339-22df-4996-9315-4d7ee49c7997" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="src/Trade.service.gRPC/Trade.service.gRPC.csproj" Id="e291db06-12bc-42bb-9b2e-4a85fbadd194" />
+  </Folder>
+</Solution>
